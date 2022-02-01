@@ -1,6 +1,6 @@
 # beecrowd-challenges
 
-1-Iniciante
+### 1-Iniciante
 ```
-https://www.beecrowd.com.br/judge/en/problems/index/1
+https://www.beecrowd.com.br/judge/pt/problems/index/1
 ```
