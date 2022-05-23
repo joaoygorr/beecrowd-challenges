@@ -1,0 +1,5 @@
+line = input().split()
+a = int(line[0])
+b = int(line[1])
+c = int(line[2])
+print(f"{max(a, b, c)} eh o maior")
