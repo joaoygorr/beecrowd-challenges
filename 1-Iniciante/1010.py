@@ -1,0 +1,10 @@
+line1 = input().split()
+codPeca01 = int(line1[0])
+numPeca01 = int(line1[1])
+vlrUnitario01 = float(line1[2])
+
+line2 = input().split()
+codPeca02 = int(line2[0])
+numPeca02 = int(line2[1])
+vlrUnitario02 = float(line2[2])
+print(f"VALOR A PAGAR: R$ {numPeca01 * vlrUnitario01 + numPeca02 * vlrUnitario02:.2f}")
